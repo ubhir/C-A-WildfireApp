@@ -1,0 +1,34 @@
+{
+  "style": "scope",
+  "layerState": {
+    "basemap_6959": {
+      "selected": false
+    },
+    "fire17_1_115": {
+      "selected": true
+    },
+    "fire17_1_1205": {
+      "selected": true
+    },
+    "Evacuation_Centers_Updated_3788": {
+      "selected": false
+    },
+    "Facilities_8324": {
+      "selected": false
+    },
+    "USA_Fire_Potential_3678": {
+      "selected": true
+    },
+    "Traffic_4915": {
+      "selected": false
+    },
+    "Wildfire_Activity_7699": {
+      "selected": false
+    }
+  },
+  "layer": "fire17_1_115",
+  "isZoom": false,
+  "handleColor": "#dadada",
+  "layerMode": "single",
+  "defaultLayers": []
+}

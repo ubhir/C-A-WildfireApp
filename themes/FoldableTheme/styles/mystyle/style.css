@@ -1,0 +1,54 @@
+.jimu-main-font{
+  font-family: 'Open Sans';
+}
+.jimu-main-background{
+  background-color: #bd0026;
+}
+.jimu-title,
+.jimu-subtitle {
+  color: #ffffb2;
+}
+.jimu-widget-header-controller {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-bottom: 3px solid #ffffb2;
+}
+.jimu-widget-header-controller .jimu-drop-menu{
+  background-color: black;
+}
+.jimu-header-more-popup {
+  background-color: #435063;
+}
+.jimu-header-more-popup .icon-node {
+  opacity: 1;
+  background: #bd0026;
+  border-right: 0;
+}
+.jimu-header-more-popup .close {
+  background-color: #435063;
+}
+.jimu-header-more-popup .close-inner {
+  background-color: black;
+}
+.jimu-on-screen-widget-panel>.jimu-panel-title,
+.jimu-foldable-panel>.jimu-panel-title,
+.jimu-title-panel>.title{
+  color: #ffffb2;
+  background-color: #bd0026;
+}
+
+.jimu-widget-header-controller .jimu-drop-menu .menu-item{
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+.jimu-widget-header-controller .jimu-drop-menu .menu-item:hover{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.esriPopup .titlePane {
+  background-color: black;
+}
+.esriPopup .titlePane {
+  background-color: #bd0026;
+  border: 0;
+}

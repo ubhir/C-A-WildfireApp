@@ -1,0 +1,35 @@
+{
+  "splash": {
+    "splashContent": "<div align=\"center\"><font color=\"#000001\">\n\n<p style=\"margin: 0px;\"><span lang=\"EN-US\" style=\"margin: 0px; color: rgb(53, 53, 53);\"><font size=\"5\"><b>This\napp is designed as an educational and informative resource for Wildfires in the\nstate of California, USA. Please do not base your evacuation plan on this app.\nFor evacuation notices and procedures, please refer to your local law\nenforcement.</b></font></span></p>\n\n<p style=\"margin: 0px;\"><span lang=\"EN-US\" style=\"margin: 0px; color: rgb(53, 53, 53);\"><font size=\"5\"><b> </b></font></span></p>\n\n<p style=\"margin: 0px;\"><span lang=\"EN-US\" style=\"margin: 0px; color: rgb(53, 53, 53);\"><font size=\"5\"><b>For\ninformation on how to use the web app please use the “About” widget located in\nthe top right corner of the app.</b></font></span></p><p style=\"margin: 0px;\"><span lang=\"EN-US\" style=\"margin: 0px; color: rgb(53, 53, 53);\"><font size=\"5\"><b><br /></b></font></span></p><p style=\"margin: 0px;\"><span lang=\"EN-US\" style=\"margin: 0px; color: rgb(53, 53, 53);\"><font size=\"5\"><b><br /></b></font></span></p>\n\n</font><font size=\"5\"></font><b></b><br /></div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": false,
+    "confirmEverytime": true,
+    "contentVertical": "middle",
+    "size": {
+      "mode": "percent",
+      "percent": "75%",
+      "wh": {
+        "w": 600,
+        "h": 264
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20file%20chosen",
+      "color": "#c0c0c0",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#000001",
+      "transparency": 0,
+      "text": "Okay"
+    }
+  }
+}
